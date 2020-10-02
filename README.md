@@ -1,1 +1,1 @@
-# gallery-practice
+# Галерея картинок
